@@ -70,7 +70,8 @@ harness/
 │   ├── 06-memory-state.md         ← 记忆与状态管理
 │   ├── 07-safety-guardrails.md    ← 安全与护栏
 │   ├── 08-design-patterns.md      ← 设计模式
-│   └── 09-frameworks-comparison.md← 主流框架对比
+│   ├── 09-frameworks-comparison.md← 主流框架对比
+│   └── 10-deerflow-case-study.md ← 案例：DeerFlow 2.0 深度解析
 ├── learning-path/                 ← 学习路径
 │   ├── roadmap.md                 ← 学习路线图 (4 阶段)
 │   ├── phase1-foundations.md      ← 阶段 1：基础认知
