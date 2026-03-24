@@ -72,7 +72,8 @@ harness/
 │   ├── 08-design-patterns.md      ← 设计模式
 │   ├── 09-frameworks-comparison.md← 主流框架对比
 │   ├── 10-deerflow-case-study.md ← 案例：DeerFlow 2.0 深度解析
-│   └── 11-multi-runtime-parallel.md ← Multi-Runtime 与 Harness 同构分析
+│   ├── 11-multi-runtime-parallel.md ← Multi-Runtime 与 Harness 同构分析
+│   └── 12-dapr-agents-and-ecosystem.md ← Dapr Agents + Layotto + 生态全景
 ├── learning-path/                 ← 学习路径
 │   ├── roadmap.md                 ← 学习路线图 (4 阶段)
 │   ├── phase1-foundations.md      ← 阶段 1：基础认知
