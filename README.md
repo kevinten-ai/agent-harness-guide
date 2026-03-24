@@ -79,7 +79,8 @@ harness/
 │   ├── phase1-foundations.md      ← 阶段 1：基础认知
 │   ├── phase2-core-patterns.md    ← 阶段 2：核心模式
 │   ├── phase3-advanced.md         ← 阶段 3：进阶主题
-│   └── phase4-production.md       ← 阶段 4：生产实践
+│   ├── phase4-production.md       ← 阶段 4：生产实践
+│   └── contribution-guide.md     ← 贡献指南：项目选择与路径
 └── references/
     └── resources.md               ← 权威资源索引
 ```
